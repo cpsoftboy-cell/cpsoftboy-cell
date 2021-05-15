@@ -1,7 +1,7 @@
 - 👋 Hi, I’m v1nstr
 
-- i'am a chlidern from indonesian
-- i'am 16y.o.
+- i am a chlidern from indonesian
+- i am 16y.o.
 - is learning about telegram bot:v
 
 <!---
